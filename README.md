@@ -8,9 +8,20 @@ SMM-ассистента в виде удобного веб-приложени�
 ###  Создан через Python-код с использованием Flask.
  Структура проекта Flask
 
+![Скриншот 1](//github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD5.jpg?raw=true)
 
  Создание базовый структуры Flask в PyCharm
 
-
+![Скриншот 2](https://github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD.jpg?raw=true)
 
  Сейчас генератор ничего не сгенерирует, потому что ни VK API, ни VK Group ID здесь ещё не заданы.
+
+ 
+
+![Скриншот 3](https://github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD3.jpg?raw=true)
+
+
+![Скриншот 4](https://github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD4.jpg?raw=true)
+
+
+![Скриншот 5](https://github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD5.jpg.jpg?raw=true)
