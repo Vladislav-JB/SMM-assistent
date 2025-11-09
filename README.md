@@ -24,4 +24,4 @@ SMM-ассистента в виде удобного веб-приложени�
 ![Скриншот 4](https://github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD4.jpg?raw=true)
 
 
-![Скриншот 5](https://github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD5.jpg.jpg?raw=true)
+![Скриншот 5](https://github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD2.jpg?raw=true)
