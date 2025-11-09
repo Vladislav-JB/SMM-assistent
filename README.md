@@ -8,7 +8,7 @@ SMM-ассистента в виде удобного веб-приложени�
 ###  Создан через Python-код с использованием Flask.
  Структура проекта Flask
 
-![Скриншот 1](//github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD5.jpg?raw=true)
+![Скриншот 1](https://github.com/Vladislav-JB/SMM-assistent/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD5.jpg?raw=true)
 
  Создание базовый структуры Flask в PyCharm
 
